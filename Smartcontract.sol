@@ -84,4 +84,4 @@ contract Ballot
           return _winningproposal;
    }
 }
-//By uday 
+ 
